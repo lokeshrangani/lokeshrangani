@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**lokeshrangani/lokeshrangani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> Hi 👋, Lokesh's here! </h2>
+</br>
+<p>
+</p>
 
-Here are some ideas to get you started:
+[![Linkedin: lokeshrangani](https://img.shields.io/badge/-lokeshrangani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lokeshrangani/)](https://www.linkedin.com/in/lokeshrangani)
+[![GitHub lokeshrangani](https://img.shields.io/github/followers/lokeshrangani?label=follow&style=social)](https://github.com/lokeshrangani)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<em><b>Happy to meet you !</b> :)</em>
+
+---
