@@ -1,3 +1,3 @@
-### Hi 👋, Nice to meet you! 
-:link: &nbsp;**Connect with me**&nbsp;
-[![Linkedin: lokeshrangani](https://img.shields.io/badge/-lokeshrangani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lokeshrangani/)](https://www.linkedin.com/in/lokeshrangani)
+### Hi 👋, It's nice to meet you! 
+:link: &nbsp;**Let's have a chat**&nbsp;
+[![Linkedin: lokeshrangani](https://img.shields.io/badge/-CLTR/CMD+click-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lokeshrangani)
