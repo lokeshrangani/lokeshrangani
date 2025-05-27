@@ -1,13 +1,10 @@
-# 👋 Hey, I'm Lokesh!
+### Backend Developer | Laravel & PHP Enthusiast | Clean Code Advocate
 
-### 💻 Backend Developer | Laravel & PHP Enthusiast | Clean Code Advocate
-
-I'm a backend developer with over **3 years of experience** working on **Laravel**, and **custom-built backend systems**.  
-I enjoy solving real-world problems through code, whether it's designing a scalable multitenant SaaS or building REST APIs.
+I'm a backend developer with experience** working on **Laravel**, and **custom-built backend systems**.  I enjoy solving real-world problems through code, whether it's designing a scalable multitenant SaaS or building REST APIs.
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 - **Languages**: PHP, JavaScript, SQL
 - **Frameworks**: Laravel, CodeIgniter
 - **Database**: MySQL, SQLite
@@ -16,11 +13,12 @@ I enjoy solving real-world problems through code, whether it's designing a scala
 
 ---
 
-### 📫 Let's Connect
-- 🌐 [LinkedIn](https://www.linkedin.com/in/lokeshrangani)
-- ✉️ Open to freelance or full-time remote opportunities!
+### Let's talk
+- [LinkedIn](https://www.linkedin.com/in/lokeshrangani)
+- Open for collaboration!
 
 ---
 
-_“There’s always something to learn, and I enjoy learning through building.”_
+_“Alone we can do so little; together we can do so much. -  Helen Keller”_
+
 
