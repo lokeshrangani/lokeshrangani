@@ -6,5 +6,6 @@ With a background in Laravel and custom backend development, I specialize in tur
 
 Thanks for visiting my GitHub profile. Let's build something amazing together! 😄
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshrangani&layout=compact&theme=github_light)
 
 ![counter](https://komarev.com/ghpvc/?username=lokeshrangani)
