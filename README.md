@@ -1,17 +1,17 @@
-### Backend Engineer | PHP • Laravel • SaaS
-I design and build reliable backend systems with a strong focus on scalability, clarity, and long-term ownership.
+### Backend Engineer | PHP • Laravel • Distributed Systems
 
-My work includes:
+I build reliable backend systems with a focus on scalability, fault tolerance, and long-term maintainability.
 
-- Multi-tenant SaaS platforms
-- API-first backend systems
-- Background jobs, queues, and system reliability
-- Turning complex business rules into maintainable code
-- let's connect and discuss more
+* Designing multi-tenant SaaS platforms
+* Building API-first services and integrations
+* Developing async systems (queues, jobs, retries, observability)
+* Architecting payment systems with idempotency and failure handling
+* Translating complex business logic into clean, scalable code
 
-### Let’s connect:
-- [in/lokeshrangani](https://www.linkedin.com/in/lokeshrangani)
+Focused on solving real-world system challenges around reliability, performance, and operational simplicity.
 
-Thanks for visiting — always happy to exchange notes and build useful things.
+### Connect
+
+* https://www.linkedin.com/in/lokeshrangani
 
 ![counter](https://komarev.com/ghpvc/?username=lokeshrangani)
